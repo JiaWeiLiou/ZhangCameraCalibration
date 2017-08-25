@@ -1,7 +1,6 @@
-// homework01.cpp : Defines the entry point for the console application.
+// ZhangCameraCalibration.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
 #include <opencv2/opencv.hpp>
 #include <iostream>
 #include <fstream>
